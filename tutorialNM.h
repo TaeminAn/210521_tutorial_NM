@@ -20,6 +20,8 @@ Description      : myNM.h
 
 extern double originfunc(double _x);
 
+extern double asf(void);
+
 extern double func(double _x);
 
 extern double dfunc(double _x);
